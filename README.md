@@ -1,2 +1,2 @@
-# microbit - to store files used for MicroBit education material I plan on creating
+# microbit
 This repository is for creating the MVP of the microbit learning material
