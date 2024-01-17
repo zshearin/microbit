@@ -9,10 +9,11 @@ Create lessons for basic introduction to "what I do" (call for Nicole's children
 - What is a computer?
     4 things common to all computers:
     - take something in (an input)
-    - store and process information
+    - store information
+    - process information
     - put something out (output results)
 
-- What is input
+- What is input?
     - stuff you tell the computer to make it do stuff
 
 - What is a program?
