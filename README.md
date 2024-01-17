@@ -30,4 +30,4 @@ Create lessons for basic introduction to "what I do" (call for Nicole's children
     - Create something with the block code editor 
     - Change to javascript or Python and show it's the same program
 
-4. What it can build to - show quick demo of my current job maybe (ie login to a sugar instance or something?)
+4. What it can build to - show quick demo of my current job maybe
